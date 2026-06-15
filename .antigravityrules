@@ -2,3 +2,4 @@
 
 - **代码修改确认规则**：所有代码修改在执行前，必须先将详细的修改方案告知用户，经由用户审批并确认后，才能开始更新代码。
 - **代码审查工作流 (Code Review)**：执行代码审查时，必须严格遵循并加载 [.antigravity/skills/code-review.md](file:///home/ubuntu/agy/.antigravity/skills/code-review.md) 中定义的 Senior Staff Code Reviewer 技能指令。
+- **整洁代码与架构约束 (Clean Code)**：任何时候让我输出、修改或重构代码时，我都必须被 [.antigravity/skills/clean-code.md](file:///home/ubuntu/agy/.antigravity/skills/clean-code.md) 的规则所约束，坚决抵制意大利面条代码。
